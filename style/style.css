@@ -1,0 +1,50 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #8b6cab;
+}
+
+#projects {
+  background-color: #8b6cab;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+/* social media */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Add margin to create space */
+}
+
+.fa {
+  padding: 10px; /* Adjust padding as needed */
+  font-size: 40px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 10px; /* Add margin to create space between icons */
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  color: rgb(191, 14, 197);
+}
+.fa-linkedin {
+  color: rgb(191, 14, 197);
+}
+.fa-spotify {
+  color: rgb(191, 14, 197);
+}
